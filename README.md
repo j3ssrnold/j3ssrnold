@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Jessica, an <a href="https://linkedin.com/in/name"IT Professional</a></h1>
 
-<!--
-**j3ssrnold/j3ssrnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+-  <b>osTicket (Help Desk Ticketing System</b>
+    -  [osTicket: Prerequisites and Installation](https://github.com/j3ssrnold/osticket-prereqs)
+    -  [osTicket: Post-installation Configuration](https://github.com/j3ssrnold/post-install-config)
+    -  [osTicket: Ticket Lifecycle](https://github.com/j3ssrnold/ticket-lifecycle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  <b>Microsoft Azure</b>
+    -  [Configuring Active Directory within Azure VMs](https://github.com/j3ssrnold/configure-ad)
+    -  [Network Security Groups  (NSGs)  and Network Protocols](https://github.com/j3ssrnold/azure-network-protocols)
+
+<h2>Connect With Me:</h2>
+
+[<img> align="left" alt="" &vert; LinkedIn" width"22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img> align="left" alt="" &vert; Instagram" width"22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedIn]: https://linkedin.com/in/
+[instagram]: https://www.instagram.com/
